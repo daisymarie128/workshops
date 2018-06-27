@@ -14,6 +14,7 @@ These are just notes for me running the workshop and what inwhat order I will go
   - Download Vim
   - Clone my repo
 3. Task 1.1
+  - add set cursorline to `vimrc`
   - Editing my pre made file
   - Using `h, j, k, l` to navigate
   - Inserting and appending text
@@ -21,7 +22,18 @@ These are just notes for me running the workshop and what inwhat order I will go
   - Deleting
   - Pairing combinations
 4. Task 1.2
+  - Copy and pasting
+5. Install ack
+6. Task 1.3 - Large files
+ - Add set number to `.vimrc`
+ - Add smartindent
+7. Task 1.4 - search and replace 
+  - Add hlsearch to `.vimrc`
   - Searching in vim
   - Search and replace
-5. Install ack
-  
+  - add insearch to `.vimrc`
+8. Customize`.vimrc`
+  - clipboard, tab widths etc
+  - Install plugin manager
+   
+

@@ -1,4 +1,4 @@
-# Task 1.4 - navigating around large files
+# Task 1.3 - navigating around large files
 
 The past exercises we just did were using quite small amounts of text. In the real world we'll probably be handling files with much text in it. So lets learn how to navigate around a little quicker with large text files.
 
@@ -9,6 +9,7 @@ Task:
 
 ---------------------------------------
 Hints:
+make sure you've setup linenumbers in your .vimrc
 combine combinations of movement: ie: 10 + w || 10 h
 jump to line: `:` + <LINE_NUMBER>
 go to start: gg
